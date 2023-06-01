@@ -3,7 +3,7 @@ Final project &ndash; A Nature Protection blogging system &ndash;
 
 ## Team name and contributors
 
-![group](./spec/groups.png)
+![group](pgcert-group-2-22-s1-main/spec/groups.png)
 
 ## Start
 
